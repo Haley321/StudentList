@@ -3,7 +3,7 @@ package studentlist;
 
 /**
  *
- * @author Megha Patel 
+ * @author Megha Patel January 31, 2023
  */
 public class Student { 
     private String studentName;
